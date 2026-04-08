@@ -25,8 +25,6 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 <div>
-  <img align="left" src="https://media.tenor.com/fYg91qBpDdgAAAAj/bongo-cat-transparent.gif" width="220" alt="Bongo Cat Left" />
-  
   <div align="right">
     <p>💻 <b>Languages</b><br>
     <img src="https://skillicons.dev/icons?i=python,js"/></p>
@@ -37,11 +35,13 @@
     <p>🗄️ <b>Databases</b><br>
     <img src="https://skillicons.dev/icons?i=mysql"/></p>
     <p>🧰 <b>Tools & Workflow</b><br>
+    <img align="left" src="https://github.com/DavidKCF/DavidKCF/blob/main/.github/workflows/gojo.gif" width="220" alt="Gojo" />
     <img src="https://skillicons.dev/icons?i=github,vscode"/></p>
     <p>🤖 <b>Automation & Integrations</b><br>
     <code>n8n (Workflow automation, APIs integration)</code></p>
     <p>🔗 <b>Concepts</b><br>
     <code>REST APIs</code> • <code>JSON</code> • <code>MVC Pattern</code> • <code>Neural Networks (NEAT)</code> • <code>Machine Learning</code></p>
+    
   </div>
 </div>
 <br clear="both">
@@ -77,7 +77,3 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/tDqmD_TB3VsAAAAd/japan-torii.gif" alt="Japan Torii" width="100%" />
 </div>
-
-<p align="center">
-  ✨ Always building, always improving.
-</p>
