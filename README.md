@@ -75,5 +75,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/tDqmD_TB3VsAAAAd/japan-torii.gif" alt="Japan Torii" width="100%" />
+  <img src="https://github.com/DavidKCF/DavidKCF/blob/main/.github/workflows/1771580295-ezgif.com-video-to-gif-converter.gif" alt="Japan Torii" width="100%" />
 </div>
