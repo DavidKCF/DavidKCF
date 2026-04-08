@@ -75,5 +75,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github.com/DavidKCF/DavidKCF/blob/main/.github/workflows/1771580295-ezgif.com-video-to-gif-converter.gif" alt="Japan Torii" width="100%" />
+  <img src="https://github.com/DavidKCF/DavidKCF/blob/main/.github/workflows/1657713567-1657713567-evangelion-pixel-room-live-wallpaper-ezgif.com-video-to-gif-converter.gif" />
 </div>
